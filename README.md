@@ -78,4 +78,7 @@ To deliver an interactive visual tool that:
 •	Customer Engagement: Showcase hidden gems to drive user discovery.
 
 📷 Preview:
-[Zomato Dashboard.png](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Dashboard.png)
+
+Power BI file to interact: https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Insights%20Dashboard.pbix
+
+Quick snapshot of the dashboard: [Zomato Dashboard.png](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Dashboard.png)

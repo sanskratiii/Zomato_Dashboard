@@ -15,7 +15,7 @@ Quick snapshot of the dashboard: [Zomato Dashboard.png](https://github.com/sansk
 
 🛠 Tech Stack:
 
-The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools:
 
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.
 

@@ -78,4 +78,4 @@ To deliver an interactive visual tool that:
 •	Customer Engagement: Showcase hidden gems to drive user discovery.
 
 📷 Preview:
-Zomato Dashboard.png
+[Zomato Dashboard.png](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Dashboard.png)

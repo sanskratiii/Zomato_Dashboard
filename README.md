@@ -79,6 +79,6 @@ To deliver an interactive visual tool that:
 
 📷 Preview:
 
-Power BI file to interact: https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Insights%20Dashboard.pbix
+Power BI file to interact: Zomato Insights Dashboard.pbix
 
 Quick snapshot of the dashboard: [Zomato Dashboard.png](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Dashboard.png)

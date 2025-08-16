@@ -7,6 +7,12 @@ An interactive Power BI dashboard built to explore Zomato restaurant data focusi
 
 The Zomato Insights Dashboard is a visually engaging Power BI report designed to help users analyze and compare restaurant performance across various locations. It focuses on metrics such as top and bottom rated locations, popular cuisines, spending behavior, and hidden high potential restaurants. This tool is intended for marketing teams and analysts who want to understand customer preferences and market dynamics to make data driven decisions.
 
+📷 Preview:
+
+Power BI file for interactive use: [Zomato Insights Dashboard.pbix](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Insights%20Dashboard.pbix)
+
+Quick snapshot of the dashboard: [Zomato Dashboard.png](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Dashboard.png)
+
 🛠 Tech Stack:
 
 The dashboard was built using the following tools and technologies:
@@ -24,8 +30,6 @@ The dashboard was built using the following tools and technologies:
 📊 Data Source:
 
 Source: Public Zomato  Bangalore Restaurants Dataset from Kaggle
-
-The dataset contains information on restaurants, including name, location, and cuisine type, average ratings, number of votes, average cost for two people and restaurant categories (Quick Bites, Casual Dining, Café, etc.)
 
 ⭐ Highlights:
 
@@ -56,7 +60,7 @@ To deliver an interactive visual tool that:
 
 -	Top Cuisines by Average Rating & Popularity (Line Chart) : Shows how average ratings relate to cuisine popularity. Desserts and cafés maintain high ratings despite fewer outlets.
 
--	Average Spend per Location (Clustered Column Chart) : Compares the number of restaurants in a location with the average spend for two people. Highlights high spending areas like Rajajinagar.
+-	Average Spend per Location (Clustered Column Chart) : Highlights high spending areas like Rajajinagar.
 
 -	Restaurant Type Breakdown (100% Stacked Bar Chart) :	Shows the share of Quick Bites, Casual Dining, Cafés, etc. Quick Bites dominate, but niche categories show growth potential.
 
@@ -76,9 +80,3 @@ To deliver an interactive visual tool that:
 •	Expansion Strategy: Target high spending zones and underrepresented cuisines.
 
 •	Customer Engagement: Showcase hidden gems to drive user discovery.
-
-📷 Preview:
-
-Power BI file for interactive use: [Zomato Insights Dashboard.pbix](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Insights%20Dashboard.pbix)
-
-Quick snapshot of the dashboard: [Zomato Dashboard.png](https://github.com/sanskratiii/Zomato_Dashboard/blob/main/Zomato%20Dashboard.png)

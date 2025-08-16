@@ -78,3 +78,4 @@ To deliver an interactive visual tool that:
 •	Customer Engagement: Showcase hidden gems to drive user discovery.
 
 📷 Preview:
+Zomato Dashboard.png

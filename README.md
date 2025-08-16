@@ -33,8 +33,8 @@ Public Zomato  Bangalore Restaurants Dataset from Kaggle
 
 ⭐ Highlights:
 
-- Business Problem:
-Zomato hosts a wide variety of restaurants, but identifying the best-performing locations, most popular cuisines, and untapped opportunities is not straightforward from raw data.
+• Business Problem:
+Zomato brings together thousands of restaurants, but it’s not easy to spot which locations consistently drive sales, which cuisines customers really crave, or where hidden growth opportunities lie when the data is unstructured.
 
 Key questions include:
 

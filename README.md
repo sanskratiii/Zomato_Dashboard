@@ -5,7 +5,7 @@ An interactive Power BI dashboard built to explore Zomato restaurant data focusi
 
 📄 Purpose:
 
-The Zomato Insights Dashboard is a visually engaging Power BI report designed to help users analyze and compare restaurant performance across various locations. It focuses on metrics such as top and bottom rated locations, popular cuisines, spending behavior, and hidden high potential restaurants. This tool is intended for marketing teams and analysts who want to understand customer preferences and market dynamics to make data driven decisions.
+The Zomato Insights Dashboard is a visually engaging Power BI report which focuses on metrics such as top and bottom rated locations, popular cuisines, spending behavior, and hidden high potential restaurants. This tool is intended for marketing teams and analysts who want to understand customer preferences and market dynamics to make data driven decisions.
 
 📷 Preview:
 
@@ -29,14 +29,14 @@ The dashboard was built using the following tools and technologies:
 
 📊 Data Source:
 
-Source: Public Zomato  Bangalore Restaurants Dataset from Kaggle
+Public Zomato  Bangalore Restaurants Dataset from Kaggle
 
 ⭐ Highlights:
 
 - Business Problem:
 Zomato hosts a wide variety of restaurants, but identifying the best-performing locations, most popular cuisines, and untapped opportunities is not straightforward from raw data.
 
-- Key questions include:
+Key questions include:
 
 •	Which cuisines have the highest customer satisfaction?
 

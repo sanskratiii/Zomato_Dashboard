@@ -58,17 +58,17 @@ To deliver an interactive visual tool that:
 
 ⛳ Walkthrough of Key Visuals:
 
--	Top Cuisines by Average Rating & Popularity (Line Chart) : Shows how average ratings relate to cuisine popularity. Desserts and cafés maintain high ratings despite fewer outlets.
+•	Top Cuisines by Average Rating & Popularity (Line Chart) : Shows how average ratings relate to cuisine popularity. Desserts and cafés maintain high ratings despite fewer outlets.
 
--	Average Spend per Location (Clustered Column Chart) : Highlights high spending areas like Rajajinagar.
+•	Average Spend per Location (Clustered Column Chart) : Highlights high spending areas like Rajajinagar.
 
--	Restaurant Type Breakdown (100% Stacked Bar Chart) :	Shows the share of Quick Bites, Casual Dining, Cafés, etc. Quick Bites dominate, but niche categories show growth potential.
+•	Restaurant Type Breakdown (100% Stacked Bar Chart) :	Shows the share of Quick Bites, Casual Dining, Cafés, etc. Quick Bites dominate, but niche categories show growth potential.
 
--	Top 3 & Bottom 3 Locations by Average Rating (Multi-row Card) :	Identifies top performers for marketing focus and low performers for service improvements.
+•	Top 3 & Bottom 3 Locations by Average Rating (Multi-row Card) :	Identifies top performers for marketing focus and low performers for service improvements.
 
--	Top 10 High Rated Restaurants (Treemap) :	Highlights the best rated restaurants, which can serve as brand ambassadors.
+•	Top 10 High Rated Restaurants (Treemap) :	Highlights the best rated restaurants, which can serve as brand ambassadors.
 
--	Hidden Gems Analysis (Treemap) :	Finds high rated restaurants in less popular areas or categories ideal for promotion.
+•	Hidden Gems Analysis (Treemap) :	Finds high rated restaurants in less popular areas or categories ideal for promotion.
 
 
 💼 Business Impact & Insights:
